@@ -1,4 +1,6 @@
 # Superposition
+Notice: The file is pre run so it is pdf format from Jupyter Notebook
+
 Bernstein Vazirani Algorithm with Qiskit
 
 This repository contains a Jupyter Notebook that demonstrates the **Bernstein-Vazirani quantum algorithm**, implemented using [Qiskit](https://qiskit.org/). The algorithm is designed to find a hidden bit string in a black-box function with **only one quantum query**, showcasing the power of quantum parallelism.
@@ -24,13 +26,4 @@ Contents
 
 _Requirements_
 
-To run the notebook, you'll need the following:
-
-- Python 3.8 or newer
-- Jupyter Notebook or JupyterLab
-- Qiskit
-
-You can install everything using pip:
-
-```bash
-pip install qiskit notebook
+Nothing, Everything is pre run and in pdf format
