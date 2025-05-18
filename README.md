@@ -1,5 +1,6 @@
 # Superposition
 Notice: The file is pre run so it is pdf format from Jupyter Notebook
+CLICK THE Bernstein_Vazirani(2) File to view my project!!!
 
 Bernstein Vazirani Algorithm with Qiskit
 
